@@ -9,6 +9,8 @@ int main() {
 
 	std::cout << width << std::endl;
 
+	//this is called copy-assignment
+	//variable = value
 	width = 7;
 
 	std::cout << width << std::endl;

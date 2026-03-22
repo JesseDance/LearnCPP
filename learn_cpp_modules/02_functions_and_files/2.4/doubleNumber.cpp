@@ -9,6 +9,7 @@ int main() {
 	std::cout << "Enter a number: ";
 
 	int input{};
+	
 	std::cin >> input;
 
 	std::cout << "You entered the number: " << input << '\n';
